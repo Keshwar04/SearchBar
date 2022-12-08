@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+.searchbar {
+  position: absolute;
+  left: 168px;
+  top: 11px;
+  font-size: 15px;
+  opacity: 0.8;
+}
